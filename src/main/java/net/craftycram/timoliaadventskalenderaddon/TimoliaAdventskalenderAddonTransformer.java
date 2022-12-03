@@ -1,9 +1,9 @@
-package com.example.addon;
+package net.craftycram.timoliaadventskalenderaddon;
 
 import net.labymod.addon.AddonTransformer;
 import net.labymod.api.TransformerType;
 
-public class ExampleAddonTransformer extends AddonTransformer {
+public class TimoliaAdventskalenderAddonTransformer extends AddonTransformer {
 
   @Override
   public void registerTransformers() {

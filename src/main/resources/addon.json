@@ -1,6 +1,6 @@
 {
-  "name": "Example Addon",
+  "name": "Timolia Adventskalender",
   "uuid": "%uuid%",
-  "mainClass": "com.example.addon.ExampleAddon",
-  "transformerClass": "com.example.addon.ExampleAddonTransformer"
+  "mainClass": "net.craftycram.timoliaadventskalenderaddon.TimoliaAdventskalenderAddon",
+  "transformerClass": "net.craftycram.timoliaadventskalenderaddon.TimoliaAdventskalenderAddonTransforner"
 }

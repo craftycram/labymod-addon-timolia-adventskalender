@@ -1,4 +1,4 @@
-package com.example.addon.mixin;
+package net.craftycram.timoliaadventskalenderaddon.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
