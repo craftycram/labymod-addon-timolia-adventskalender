@@ -23,6 +23,5 @@ public class TimoliaAdventskalenderAddon extends LabyModAddon {
 
   @Override
   protected void fillSettings(List<SettingsElement> list) {
-    list.add(new BooleanElement("test", new IconData(Material.ACACIA_FENCE)));
   }
 }
